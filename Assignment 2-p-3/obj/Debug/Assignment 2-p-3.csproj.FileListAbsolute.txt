@@ -1,0 +1,7 @@
+C:\Users\Dell\source\Day 4\Assignment 2-p-3\Assignment 2-p-3\obj\Debug\Assignment 2-p-3.csproj.AssemblyReference.cache
+C:\Users\Dell\source\Day 4\Assignment 2-p-3\Assignment 2-p-3\obj\Debug\Assignment 2-p-3.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\Day 4\Assignment 2-p-3\Assignment 2-p-3\bin\Debug\Assignment 2-p-3.exe.config
+C:\Users\Dell\source\Day 4\Assignment 2-p-3\Assignment 2-p-3\bin\Debug\Assignment 2-p-3.exe
+C:\Users\Dell\source\Day 4\Assignment 2-p-3\Assignment 2-p-3\bin\Debug\Assignment 2-p-3.pdb
+C:\Users\Dell\source\Day 4\Assignment 2-p-3\Assignment 2-p-3\obj\Debug\Assignment 2-p-3.exe
+C:\Users\Dell\source\Day 4\Assignment 2-p-3\Assignment 2-p-3\obj\Debug\Assignment 2-p-3.pdb
